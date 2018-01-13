@@ -13,7 +13,7 @@ namespace BDonl
 		{
 			InitializeComponent();
 
-			MainPage = new BDonl.MainPage();
+			MainPage = new Views.TarefaPage();
 		}
 
 		protected override void OnStart ()
